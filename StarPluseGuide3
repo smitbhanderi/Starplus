@@ -2,14 +2,14 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "banner_id":"ca-app-pub-3940256099942544/6300978110",
+         "interstitial_id":"ca-app-pub-3940256099942544/1033173711",
+         "native_id":"ca-app-pub-3940256099942544/2247696111",
          "status":"true",
          "splash_ads":"false"
       },
       {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "app_id":"",
          "banner_id":"1879670132211481_1879673272211167",
          "interstitial_id":"1879670132211481_1879670932211401",
           "interstitial_id1":"1879670132211481_1879672835544544",
